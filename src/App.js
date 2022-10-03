@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <Header />
-      <Container fluid classname='px-0'>
+      <Container fluid className='px-0'>
         <ThemeProvider
           breakpoints= { breakpoints }
           minBreakpoint='xxs'
