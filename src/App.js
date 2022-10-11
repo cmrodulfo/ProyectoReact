@@ -3,6 +3,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Header } from './compenets/Header/Header';
 import { Container, ThemeProvider } from 'react-bootstrap';
+import { Carrousel } from './compenets/Main/Carrousel';
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
           breakpoints= { breakpoints }
           minBreakpoint='xxs'
         >
+          <Carrousel />
 
         </ThemeProvider>
 
