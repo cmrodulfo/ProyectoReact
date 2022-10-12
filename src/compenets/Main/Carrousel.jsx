@@ -1,4 +1,5 @@
 import Carousel from 'react-bootstrap/Carousel';
+import xwin_1 from "./../../assets/image/xwin_1.png"
 
 export const Carrousel = () => {
   return (
@@ -6,7 +7,7 @@ export const Carrousel = () => {
       <Carousel.Item interval={1000}>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=First slide&bg=373940"
+          src={xwin_1}
           alt="First slide"
         />
         <Carousel.Caption>
@@ -17,7 +18,7 @@ export const Carrousel = () => {
       <Carousel.Item interval={500}>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Second slide&bg=282c34"
+          src={xwin_1}
           alt="Second slide"
         />
         <Carousel.Caption>
@@ -28,7 +29,7 @@ export const Carrousel = () => {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Third slide&bg=20232a"
+          src={xwin_1}
           alt="Third slide"
         />
         <Carousel.Caption>
