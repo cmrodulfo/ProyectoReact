@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "producto": "Luke Skywalker",
+        "categoria": "juguete",
+        "destacado": true,
+        "marca": "hasbro",
+        "imagen": "https://www.hasbro.com/common/productimages/es_MX/4EF11CD57FC14893AC916B30BCDC2330/0ED2CF3DBFAE465CB06ADF1A0120AC3E.jpg",
+        "tipo": "personaje",
+        "precio": 12000,
+        "moneda": "$"
+    },
+    {
+        "id": 2,
+        "producto": "Darth Maul",
+        "categoria": "juguete",
+        "destacado": true,
+        "marca": "hasbro",
+        "imagen": "https://www.hasbro.com/common/productimages/es_MX/301C5F9269814B66A2AF59DE95AC6603/16B6E73ED77E42219692B666A0492507.jpg",
+        "tipo": "personaje",
+        "precio": 8000,
+        "moneda": "$"
+    },
+    {
+        "id": 3,
+        "producto": "Carnor Jax",
+        "categoria": "juguete",
+        "destacado": true,
+        "marca": "hasbro",
+        "imagen": "https://www.hasbro.com/common/productimages/es_MX/B4849FE9349C490C83A3CABBDBA9EACD/E7593B5D41EA4744BFAF31E618B352AC.jpg",
+        "tipo": "personaje",
+        "precio": 6500,
+        "moneda": "$"
+    },
+    {
+        "id": 4,
+        "producto": "Darth Vader",
+        "categoria": "juguete",
+        "destacado": true,
+        "marca": "hasbro",
+        "imagen": "https://www.hasbro.com/common/productimages/es_MX/B4849FE9349C490C83A3CABBDBA9EACD/E7593B5D41EA4744BFAF31E618B352AC.jpg",
+        "tipo": "personaje",
+        "precio":10500,
+        "moneda":"$"
+    },
+    {
+        "id": 5,
+        "producto": "Yoda",
+        "categoria": "juguete",
+        "destacado": true,
+        "marca": "hasbro",
+        "imagen": "https://www.hasbro.com/common/productimages/es_MX/BE1A7552330D43A08D5F71455023AD0D/57ACB1D797F642AA8792E55CE9782F4A.jpg",
+        "tipo": "personaje",
+        "precio": 8500,
+        "moneda":"$"
+    },
+    {
+        "id": 6,
+        "producto": "Han Solo",
+        "categoria": "juguete",
+        "destacado": true,
+        "marca": "hasbro",
+        "imagen": "https://www.hasbro.com/common/productimages/es_MX/15E01F2EBF3C4307937E12CB8FFFC5BC/909D2175FFE4419D925FADA6E6C8C83D.jpg",
+        "tipo": "personaje",
+        "precio":8500,
+        "moneda":"$"
+    },
+    {
+        "id": 7,
+        "producto": "Princesa Leia",
+        "categoria": "juguete",
+        "destacado": true,
+        "marca": "hasbro",
+        "imagen": "https://www.hasbro.com/common/productimages/es_MX/5D95E42317644DBFAC4CDC5E6E1827AF/D4E0630A1FF34526988DF65DFB4FD40A.jpg",
+        "tipo": "personaje",
+        "precio": 12000,
+        "moneda": "$"
+    },
+    {
+        "id": 8,
+        "producto": "R2D2",
+        "categoria": "juguete",
+        "destacado": true,
+        "marca": "hasbro",
+        "imagen": "https://www.hasbro.com/common/productimages/es_MX/BB59FF28E9C1494B8CDBDA0989AF7AC3/3BFB99AE13AE496A86DD9A5B8A13BE3D.jpg",
+        "tipo": "personaje",
+        "precio": 10500,
+        "moneda": "$"
+    },
+    {
+        "id": 9,
+        "producto": "C3PO",
+        "categoria": "juguete",
+        "destacado": true,
+        "marca": "hasbro",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_924639-MLA51343931172_082022-O.webp",
+        "tipo": "personaje",
+        "precio": 10500,
+        "moneda": "$"
+    },
+    {
+        "id": 10,
+        "producto": "Stormtrupper",
+        "categoria": "juguete",
+        "destacado": false,
+        "marca": "hasbro",
+        "imagen": "https://www.hasbro.com/common/productimages/es_MX/7DD33E5E910F49D38A3AA561CEF955E2/022E1FC1C7DD44FF846DC999EE5E6E76.jpg",
+        "tipo": "personaje",
+        "precio": 8000,
+        "moneda":"$"
+    },
+    {
+        "id": 11,
+        "producto": "Halcon Milenario",
+        "categoria": "juguete",
+        "destacado": false,
+        "marca": "hasbro",
+        "imagen": "https://www.hasbro.com/common/productimages/es_MX/38889AAE4491463E876A71D465013A1E/93293B3D90734D89A4A9656C1652D6F8.jpg",
+        "tipo": "nave",
+        "precio":15000,
+        "moneda":"$"
+    },
+    {
+        "id": 12,
+        "producto": "Tie Fighter",
+        "categoria": "juguete",
+        "destacado": false,
+        "marca": "hasbro",
+        "imagen": "https://www.hasbro.com/common/productimages/es_MX/153DA1D3101847A496A6F53501368258/F7D522A6F5724094BEE1143ABD30BAA4.jpg",
+        "tipo": "nave",
+        "precio":12500,
+        "moneda":"$"
+    },
+    {
+        "id": 13,
+        "producto": "X-Wing",
+        "categoria": "juguete",
+        "destacado": false,
+        "marca": "hasbro",
+        "imagen": "https://www.hasbro.com/common/productimages/es_MX/C3AB6B30288B42889698127C826B91FC/7E6208BFFC2F452185AAB9218C2999CC.jpg",
+        "tipo": "nave",
+        "precio":13000,
+        "moneda":"$"
+    },
+    {
+        "id": 14,
+        "producto": "Sable Laser",
+        "categoria": "juguete",
+        "destacado": false,
+        "marca": "hasbro",
+        "imagen": "https://www.hasbro.com/common/productimages/es_MX/C59FB4E6795E49E0BA0FBF257FB1AAF6/E9F12AB93853428A917E7C6998CF70B4.jpg",
+        "tipo": "arma",
+        "precio":7500,
+        "moneda":"$"
+    },
+    {
+        "id": 15,
+        "producto": "Grogu",
+        "categoria": "juguete",
+        "destacado": false,
+        "marca": "hasbro",
+        "imagen": "https://www.hasbro.com/common/productimages/es_MX/B4973D5B241E44C7AFCF67FA30904555/EC240EF6EB464B3EB531541BEDE057F4.jpg",
+        "tipo": "persona",
+        "precio":14500,
+        "moneda":"$"
+    },
+    {
+        "id": 16,
+        "producto": "Pijama Galactic Confort",
+        "categoria": "indumentaria",
+        "destacado": false,
+        "marca": "Star Wars",
+        "imagen": "https://starwarsblog.starwars.com/wp-content/uploads/2022/04/star-wars-mando-grogu-shopdisney-loungepants_1-990x634.jpg",
+        "tipo": "pijama",
+        "precio": 8200 ,
+        "moneda":"$"
+    },
+    {
+        "id": 17,
+        "producto": "Buzo Go Grogu",
+        "categoria": "indumentaria",
+        "destacado": true,
+        "marca": "Star Wars",
+        "imagen": "https://starwarsblog.starwars.com/wp-content/uploads/2022/04/grogu-shopdisney-spirit-jersey_1-990x634.jpg",
+        "tipo": "buzo",
+        "precio": 18500,
+        "moneda":"$"
+    },
+    {
+        "id": 18,
+        "producto": "Buzo Satr Wars",
+        "categoria": "indumentaria",
+        "destacado": false,
+        "marca": "Star Wars",
+        "imagen": "https://www.hasbro.com/common/productimages/es_MX/B4849FE9349C490C83A3CABBDBA9EACD/E7593B5D41EA4744BFAF31E618B352AC.jpg",
+        "tipo": "buzo",
+        "precio": 18800,
+        "moneda":"$"
+    },
+    {
+        "id": 19,
+        "producto": "Camisa Imperial",
+        "categoria": "indimentaria",
+        "destacado": false,
+        "marca": "Star Wars",
+        "imagen": "https://starwarsblog.starwars.com/wp-content/uploads/2022/04/woven-tie-fighter-shirt-2-990x634.jpg",
+        "tipo": "camisa",
+        "precio": 9500,
+        "moneda":"$"
+    },
+    {
+        "id": 20,
+        "producto": "Buzo Boba Fet",
+        "categoria": "indimentaria",
+        "destacado": true,
+        "marca": "Star Wars",
+        "imagen": "https://starwarsblog.starwars.com/wp-content/uploads/2022/04/boba-fett-sweatshirt-1-990x634.jpg",
+        "tipo": "buzo",
+        "precio": 18500,
+        "moneda":"$"
+    }
+]

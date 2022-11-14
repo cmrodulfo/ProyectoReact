@@ -1,28 +1,23 @@
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Header } from './compenets/Header/Header';
-import { Container, ThemeProvider } from 'react-bootstrap';
-import { Carrousel } from './compenets/Main/Carrousel';
+import { Header } from './components/Header/Header';
+import { MainLayout } from './components/layouts';
+import { Router } from './components/router'
 
 function App() {
 
-  const breakpoints = ['xxxl', 'xxl', 'xl', 'lg', 'md', 'sm', 'xs', 'xxs']
-
   return (
-    <>
+    <div
+      >
+
       <Header />
-      <Container fluid className='px-0'>
-        <ThemeProvider
-          breakpoints= { breakpoints }
-          minBreakpoint='xxs'
-        >
-          <Carrousel />
 
-        </ThemeProvider>
+      <MainLayout>
+        <Router />
+      </MainLayout>
+    </div>
 
-      </Container>
-    </>
   );
 }
 
